@@ -59,3 +59,12 @@ Here are some ideas to get you started:
 ![English](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png)
 ![Türkçe](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/tr.png)
 ![Nihongo](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/jp.png)
+
+## I like to work on:
+
+* Natural Language Processing
+* Game Development
+* Web Development
+* Automation
+* Emulation
+
