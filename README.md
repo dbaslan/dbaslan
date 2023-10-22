@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
@@ -54,11 +53,11 @@ Here are some ideas to get you started:
 
 ## Languages Spoken:
 
-![Espanol](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/es.png)
-![Français](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/fr.png)
+![Spansih](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/es.png)
+![French](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/fr.png)
 ![English](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png)
-![Türkçe](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/tr.png)
-![Nihongo](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/jp.png)
+![Turkish](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/tr.png)
+![Japanese](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/jp.png)
 
 ## I like to work on:
 
