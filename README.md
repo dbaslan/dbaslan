@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dbaslan&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbaslan&show_icons=true&theme=chartreuse-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dbaslan&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbaslan&show_icons=true&theme=chartreuse-dark)
 
 ## Languages, Systems and Tools:
 
