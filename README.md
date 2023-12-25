@@ -69,3 +69,4 @@ Here are some ideas to get you started:
 * Emulation
 
 Feel free to contact me!
+[履歴書をどうぞご覧ください](https://github.com/dbaslan/dbaslan/blob/main/Rirekisho_Deniz_Aslan.pdf)
