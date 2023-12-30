@@ -73,4 +73,6 @@ Here are some ideas to get you started:
 
 Feel free to contact me!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1SR1C0)
+
 [履歴書をどうぞご覧ください](https://github.com/dbaslan/dbaslan/blob/main/Rirekisho_Deniz_Aslan.pdf)
