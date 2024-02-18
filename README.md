@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 ## I like to work on:
 
 * Natural Language Processing
+* Machine Learning & AI
 * Game Development
 * Web Development
-* Emulation
 
 Feel free to contact me!
 
