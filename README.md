@@ -65,12 +65,12 @@ Here are some ideas to get you started:
 ![Turkish](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/tr.png)
 ![Japanese](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/jp.png)
 
-## I like to work on:
+## I work on:
 
 * Natural Language Processing
 * Machine Learning & AI
-* Game Development
 * Web Development
+* Game Development
 
 Feel free to contact me!
 
