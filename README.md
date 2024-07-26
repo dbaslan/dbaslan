@@ -73,5 +73,3 @@ Here are some ideas to get you started:
 * Game Development
 
 Feel free to contact me!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1SR1C0)
